@@ -1,0 +1,15 @@
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\obj\Debug\ResolveAssemblyReference.cache
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\obj\Debug\winceBT.Properties.Resources.resources
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\obj\Debug\winceBT.csproj.GenerateResource.Cache
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\bin\Debug\winceBT.exe
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\bin\Debug\winceBT.pdb
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\obj\Debug\winceBT.exe
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT\winceBT\obj\Debug\winceBT.pdb
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\bin\Debug\winceBT.exe
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\bin\Debug\winceBT.pdb
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\ResolveAssemblyReference.cache
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\winceBT.Properties.Resources.resources
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\winceBT.winceBT.resources
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\winceBT.csproj.GenerateResource.Cache
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\winceBT.exe
+D:\工作目录\wince\分析\winceBT_V3.0\winceBT(给客户)\winceBT\obj\Debug\winceBT.pdb

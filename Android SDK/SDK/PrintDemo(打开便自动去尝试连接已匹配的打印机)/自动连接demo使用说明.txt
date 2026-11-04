@@ -1,0 +1,11 @@
+使用说明：
+	一、此demo第一次配对成功后便会自动连接，但是必须保证安卓设备上面配对的设备只有一个(唯一)。
+	二、其他使用说明见我司sdk使用手册。
+
+
+Instructions：
+
+     First, this demo will be automatically connected after the first successful pairing, but we must ensure 
+that the equipment on the Android pairing only one device (only).
+
+     Two, other instructions to see our SDK manual.
